@@ -69,7 +69,6 @@ function plant(plant){
     }
     if(plantID == null) throw "nenhuma planta encontrada com nome: " + plant;
 
-    document.getElementById("plant-scroll").scrollTop = 0;
     document.getElementById("background").style.backgroundImage = "url("+jsonData.plants[plantID].image+")";
 
     document.getElementById("name").innerHTML = jsonData.plants[plantID].name;
@@ -77,15 +76,16 @@ function plant(plant){
     document.getElementById("scientific").innerHTML = jsonData.plants[plantID].scientificName;
 
     document.getElementById("reino").innerHTML = jsonData.plants[plantID].Reino;
-    document.getElementById("pedido").innerHTML = jsonData.plants[plantID].Pedido;
+    document.getElementById("ordem").innerHTML = jsonData.plants[plantID].Ordem;
     document.getElementById("familia").innerHTML = jsonData.plants[plantID].Família;
-    document.getElementById("subfamilia").innerHTML = jsonData.plants[plantID].Subfamília;
     document.getElementById("genero").innerHTML = jsonData.plants[plantID].Gênero;
     document.getElementById("especies").innerHTML = jsonData.plants[plantID].Espécies;
     document.getElementById("nomebinomial").innerHTML = jsonData.plants[plantID].Nomebinomial;
 
     document.getElementById("general").innerHTML = jsonData.plants[plantID].general;
     document.getElementById("characteristics").innerHTML = jsonData.plants[plantID].characteristics;
+    document.getElementById("origin").innerHTML = jsonData.plants[plantID].origin;
+    document.getElementById("uses").innerHTML = jsonData.plants[plantID].uses;
 
     if(!plantShow){
         console.log("subindo pagina");
