@@ -1,0 +1,34 @@
+{
+    "plants": [
+
+        {
+            "image": "img/zamioculca.jpg",
+            "name": "Zamioculca",
+            "scientificName": "Zamioculca",
+
+            "Reino":	     "Plantae",
+            "Pedido":	     "Alismatales",
+            "Família":	     "Araceae",
+            "Subfamília":	 "Zamioculcadoideae",
+            "Gênero":	     "Zamioculcas Schott",
+            "Espécies":	     "Z. zamiifolia",
+            "Nomebinomial": "Zamioculcas zamiifolia",
+
+            "origin": "x",
+            "usedFor": "y",
+
+            "general": "Zamioculcas é um gênero de plantas com flores da família Araceae , contendo a única espécie Zamioculcas zamiifolia . É uma planta tropical perene nativa do leste da África , do sul do Quênia ao nordeste da África do Sul . Os nomes comuns incluem gema de Zanzibar , planta ZZ , planta Zuzu , palmeira aróide , planta eternidade e palmeira esmeralda . É cultivada como planta ornamental , principalmente por sua atraente folhagem brilhante e fácil cuidado. \n Os viveiros holandeses iniciaram a propagação comercial em larga escala da planta por volta de 1996. Foi descrita pela primeira vez como Caladium zamiifolium por Loddiges em 1829, mudou-se para seu novo gênero Zamioculcas por Heinrich Wilhelm Schott e recebeu seu nome estabelecido Zamioculcas zamiifolia por Adolf Engler . \n As raízes da planta são rizomas, razão pela qual a planta é tolerante à seca, pois os rizomas armazenam água que a planta pode usar mais tarde. Assim, a planta deve ser regada apenas quando estiver seca para evitar o excesso de água. Eles exigem um bom sistema de drenagem e podem viver com luz solar moderada a indireta. Luz solar insuficiente pode ser indicada pelo alongamento das folhas.",
+
+            "characteristics": "É uma herbácea perene que cresce de 45 a 60 centímetros (17,7 a 23,6 pol) de altura, a partir de um rizoma subterrâneo robusto e suculento . É normalmente perene , mas torna-se decídua durante a seca , sobrevivendo à seca devido ao grande rizoma semelhante à batata que armazena água até que a chuva recomece. As folhas são pinadas , 40–60 centímetros (15,7–23,6 pol) de comprimento, com 6–8 pares de folhetos de 7–15 centímetros (2,8–5,9 pol) de comprimento; eles são lisos, brilhantes e verde-escuros. As hastes dessas folhas pinadas são engrossadas na parte inferior. \n As flores são produzidas em um pequeno espádice amarelo brilhante a marrom ou bronze de 5 a 7 centímetros (2,0 a 2,8 pol) de comprimento, parcialmente escondido entre as bases das folhas; floração é do meio do verão ao início do outono. \n Zamioculcas zamiifolia contém um teor de água extraordinariamente alto nas folhas (91%) e pecíolos (95%) e tem uma longevidade individual de pelo menos seis meses, o que pode ser a razão pela qual pode sobreviver extremamente bem sob baixos níveis de luz interior quatro meses sem água."
+        },
+
+        {
+            "image":"img/1.jpg",
+            "name":"Temporário",
+            "scientificName":"Temporário",
+            "origin":"Temporário",
+            "usedFor":"Temporário",
+            "characteristics":"Temporário"
+        }
+    ]
+}
