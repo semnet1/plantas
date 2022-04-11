@@ -82,7 +82,6 @@ function plant(plant){
     document.getElementById("especies").innerHTML = jsonData.plants[plantID].Espécies;
     document.getElementById("nomebinomial").innerHTML = jsonData.plants[plantID].Nomebinomial;
 
-    document.getElementById("general").innerHTML = jsonData.plants[plantID].general;
     document.getElementById("characteristics").innerHTML = jsonData.plants[plantID].characteristics;
     document.getElementById("origin").innerHTML = jsonData.plants[plantID].origin;
     document.getElementById("uses").innerHTML = jsonData.plants[plantID].uses;
